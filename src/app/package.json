@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "sideEffects": false,
   "dependencies": {
-    "next": "^9.4.1",
+    "next": "9.3.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "test-components": "0.0.1"
