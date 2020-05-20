@@ -1,0 +1,17 @@
+{
+  "name": "next-9.4-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "src/*"
+  ],
+  "private": true,
+  "devDependencies": {
+    "@adeira/babel-preset-adeira": "^0.3.0",
+    "flow-bin": "^0.125.1"
+  },
+  "scripts": {
+    "typecheck": "yarn flow"
+  }
+}

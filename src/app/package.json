@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "version": "0.0.1",
+  "sideEffects": false,
+  "dependencies": {
+    "next": "^9.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "test-components": "0.0.1"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next"
+  },
+  "devDependencies": {
+    "next-plugin-custom-babel-config": "^1.0.2",
+    "next-transpile-modules": "^3.3.0"
+  }
+}
